@@ -1,0 +1,70 @@
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\n9195351\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\n9195351\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\n9195351\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\n9195351\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\n9195351\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise (1)\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise (1)\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise (1)\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise (1)\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise (1)\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\oUR NEW\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\oUR NEW\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\oUR NEW\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\oUR NEW\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\oUR NEW\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\n9023348\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\n9023348\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\n9023348\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\n9023348\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\n9023348\Desktop\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+G:\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+G:\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+G:\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+G:\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+G:\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+F:\BInfoTech 14\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+F:\BInfoTech 14\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+F:\BInfoTech 14\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+F:\BInfoTech 14\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+F:\BInfoTech 14\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\Brickster\Documents\1 QUT Classes\2 Semester\CAB201 Programming Principles\3 Assessment\Nort 5\HareAndTortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\NUR\Desktop\HareAndTortoise 30102010\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\NUR\Desktop\HareAndTortoise 30102010\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\NUR\Desktop\HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\NUR\Desktop\HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\NUR\Desktop\HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+H:\!HareAndTortoise 30102010\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+H:\!HareAndTortoise 30102010\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+H:\!HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+H:\!HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+H:\!HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\!HareAndTortoise 30102010\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\!HareAndTortoise 30102010\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\!HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\!HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+F:\BInfoTech 14\CAB201_14se2 Programming Principles\!HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.pdb

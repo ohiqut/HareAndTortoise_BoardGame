@@ -68,3 +68,8 @@ F:\BInfoTech 14\CAB201_14se2 Programming Principles\!HareAndTortoise 30102010\Sh
 F:\BInfoTech 14\CAB201_14se2 Programming Principles\!HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
 F:\BInfoTech 14\CAB201_14se2 Programming Principles\!HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.dll
 F:\BInfoTech 14\CAB201_14se2 Programming Principles\!HareAndTortoise 30102010\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\SharedGameClasses\obj\Debug\SharedGameClasses.pdb

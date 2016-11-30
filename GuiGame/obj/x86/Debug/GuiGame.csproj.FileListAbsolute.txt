@@ -197,3 +197,15 @@ C:\Users\acer\Desktop\HareAndTortoise\GuiGame\obj\x86\Debug\GuiGame.csprojResolv
 C:\Users\acer\Desktop\HareAndTortoise\GuiGame\obj\x86\Debug\GuiGame.HareAndTortoiseForm.resources
 C:\Users\acer\Desktop\HareAndTortoise\GuiGame\obj\x86\Debug\GuiGame.Properties.Resources.resources
 C:\Users\acer\Desktop\HareAndTortoise\GuiGame\obj\x86\Debug\GuiGame.csproj.GenerateResource.Cache
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\obj\x86\Debug\GuiGame.exe
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\obj\x86\Debug\GuiGame.pdb
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\bin\Debug\Images\Lose.png
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\bin\Debug\Images\Win.png
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\bin\Debug\GuiGame.exe
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\bin\Debug\GuiGame.pdb
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\bin\Debug\SharedGameClasses.dll
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\bin\Debug\SharedGameClasses.pdb
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\obj\x86\Debug\GuiGame.csprojResolveAssemblyReference.cache
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\obj\x86\Debug\GuiGame.HareAndTortoiseForm.resources
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\obj\x86\Debug\GuiGame.Properties.Resources.resources
+D:\Doc\BInfoTech 14\CAB201_14se2 Programming Principles\hareandtortoise_boardgame\GuiGame\obj\x86\Debug\GuiGame.csproj.GenerateResource.Cache
